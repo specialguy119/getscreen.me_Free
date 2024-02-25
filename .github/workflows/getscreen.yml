@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       EMAIL_SECRET:
-        description: 'YOUR EMIAL_SECRET'
+        description: 'specialguy119@gmail.com'
         required: true
 
 jobs:
